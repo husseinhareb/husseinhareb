@@ -1,4 +1,4 @@
-### Hi there 👋I'm Hussein Hareb, a third-year Computer Science student.
+Third-year Computer Science student.
 
 <!--
 **husseinhareb/husseinhareb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
