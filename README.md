@@ -1,4 +1,3 @@
-Third-year Computer Science student.
 
 <!--
 **husseinhareb/husseinhareb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
