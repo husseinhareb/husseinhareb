@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![GitHub Stats](https://github-stats-flax-psi.vercel.app/api/github-stats?username=husseinhareb&raw=true&repos_limit=150&concurrency=4)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=husseinhareb&show_icons=true&theme=dracula&include_all_commits=true)
 
 
