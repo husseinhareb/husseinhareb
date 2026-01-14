@@ -16,10 +16,9 @@ Here are some ideas to get you started:
 
 ![GitHub Stats](https://github-stats-flax-psi.vercel.app/api/github-stats?username=husseinhareb&raw=true&repos_limit=150&concurrency=4)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=husseinhareb&show_icons=true&theme=dracula&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats-sigma-gray-92.vercel.app/api?username=husseinhareb&show_icons=true&v=1)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=husseinhareb&layout=compact&theme=dracula)
 
 ![](https://komarev.com/ghpvc/?username=husseinhareb)
 
