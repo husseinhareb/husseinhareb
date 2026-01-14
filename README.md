@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 
 ![GitHub Stats](https://github-stats-flax-psi.vercel.app/api/github-stats?username=husseinhareb&raw=true&repos_limit=150&concurrency=4)
 
-![GitHub Stats](https://github-readme-stats-sigma-gray-92.vercel.app/api?username=husseinhareb&show_icons=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats-sigma-gray-92.vercel.app/api?username=husseinhareb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 
-![Top Langs](https://github-readme-stats-sigma-gray-92.vercel.app/api/top-langs/?username=husseinhareb&layout=compact&langs_count=8&theme=dracula)
+![Top Langs](https://github-readme-stats-sigma-gray-92.vercel.app/api/top-langs/?username=husseinhareb&layout=compact&langs_count=6&theme=dracula)
 
 
 
