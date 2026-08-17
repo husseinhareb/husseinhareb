@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![G0itHub Stats](https://github-readme-stats-sigma-gray-92.vercel.app/api?username=husseinhareb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=husseinhareb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/stats-organization/github-stats-extended)
 
 ![Top Langs](https://github-readme-stats-sigma-gray-92.vercel.app/api/top-langs/?username=husseinhareb&layout=compact&langs_count=6&theme=dracula)
 
